@@ -2,5 +2,6 @@ theme: jekyll-theme-cayman
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Cubo de leds 4x4x4
-description: Proyecto final de  "Integración de Sistemas y Arquitecturas" - BUAP - Primavera 2022 Creado por: Lizbeth Ortega Muñoz, Hugo Berra Salazar, Luis Gustavo Osorno Flores 
+description: Proyecto final de  "Integración de Sistemas y Arquitecturas" - BUAP - Primavera 2022 Creado por: Lizbeth Ortega Muñoz, Hugo Berra Salazar, 
+Luis Gustavo Osorno Flores 
 show_downloads: true
